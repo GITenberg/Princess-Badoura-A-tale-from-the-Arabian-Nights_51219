@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7657'
     url: http://www.gutenberg.org/2009/agents/7657
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+covers:
+- cover_type: archival
+  image_path: 51219-h/images/cover.jpg
 creator:
   author:
     agent_name: Housman, Laurence
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1218
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Housman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51219#Princess-Badoura-A-tale-from-the-Arabian-Nights
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text
 identifiers:
